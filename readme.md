@@ -326,11 +326,11 @@ Představte si, že management firmy rozhoduje mezi dvěma variantami řízení 
 
 | Aspekt životního cyklu | Varianta 1 (Custom Embedded MCU) | Varianta 2 (Průmyslové PLC) |
 | :--- | :--- | :--- |
-| **Dostupnost náhradních dílů za 10 let** | `...` | `...` |
-| **Servisovatelnost podnikovým elektrikářem** | `...` | `...` |
-| **Doba odstávky linky při poruše CPU** | `...` | `...` |
-| **Cena vývojových nástrojů a licencí IDE** | `...` | `...` |
-| **Závěrečné doporučení (kterou variantu vybrat a proč)** | `...` | `...` |
+| **Dostupnost náhradních dílů za 10 let** | nízká | vysoká |
+| **Servisovatelnost podnikovým elektrikářem** | skoro žádná | vysoká |
+| **Doba odstávky linky při poruše CPU** | několik hodin | do příjezdu technika |
+| **Cena vývojových nástrojů a licencí IDE** | nižší | vysoká |
+| **Závěrečné doporučení (kterou variantu vybrat a proč)** | ne | ano |
 
 > :key: **Vysvětlení pojmů a odborné zdroje:**
 > - **CAPEX (Capital Expenditure)**: Zjednodušeně jde o jednorázové kapitálové výdaje na pořízení samotného zařízení (hardware, licence).
